@@ -2,8 +2,7 @@
 
 Python solutions to [Project Euler](https://projecteuler.net/) problems 1–54
 and 67. Each numbered directory contains `sol.py` and, where needed, an
-`input` file. The `test/` directory preserves three additional solution copies
-from the original repository; these are not an automated test suite.
+`input` file.
 
 Run a solution from its directory so it can find any input file:
 
